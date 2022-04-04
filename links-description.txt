@@ -1,0 +1,2 @@
+Summernote:
+https://summernote.org/getting-started/#requires-html5-doctype
